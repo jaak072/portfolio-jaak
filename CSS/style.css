@@ -118,6 +118,10 @@ hr {
     color: rgb(75, 75, 75);
 }
 
+.hero .hero-tag{
+    text-align: center;
+}
+
 .hero .hero-heading .heading-inverted {
     color: rgb(157, 77, 231);
 }
